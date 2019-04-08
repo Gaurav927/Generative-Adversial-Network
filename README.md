@@ -23,6 +23,9 @@ So we have a Counter Objective function for Generator and Discriminator
 
 ![Algorithm_GAN](https://user-images.githubusercontent.com/21220616/55735992-1c41ec80-5a40-11e9-8b05-7bcf20b824ac.png)
 
+![Training](https://user-images.githubusercontent.com/21220616/55737140-48f70380-5a42-11e9-8974-c52cf9fe53fe.png)
+
+
 
 
 
