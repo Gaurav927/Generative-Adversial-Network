@@ -21,6 +21,9 @@ So we have a Counter Objective function for Generator and Discriminator
 
 ## Algorithm
 
+![Algorithm_GAN](https://user-images.githubusercontent.com/21220616/55735992-1c41ec80-5a40-11e9-8b05-7bcf20b824ac.png)
+
+
 
 
 
