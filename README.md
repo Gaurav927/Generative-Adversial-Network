@@ -25,6 +25,11 @@ So we have a Counter Objective function for Generator and Discriminator
 
 ![Training](https://user-images.githubusercontent.com/21220616/55737140-48f70380-5a42-11e9-8974-c52cf9fe53fe.png)
 
+Result
+
+![result](https://user-images.githubusercontent.com/21220616/57768740-e4f2e980-7729-11e9-94a4-556c5a252a4d.jpg)
+
+
 
 
 
